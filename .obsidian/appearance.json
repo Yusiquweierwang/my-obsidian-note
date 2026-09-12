@@ -2,8 +2,8 @@
   "accentColor": "#d0d9e1",
   "interfaceFontFamily": "Lucida Console",
   "textFontFamily": "Lucida Console",
-  "baseFontSize": 15,
+  "baseFontSize": 19,
   "baseFontSizeAction": true,
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Wasp",
   "theme": "moonstone"
 }
