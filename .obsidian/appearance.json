@@ -2,7 +2,7 @@
   "accentColor": "#d0d9e1",
   "interfaceFontFamily": "Lucida Console",
   "textFontFamily": "Lucida Console",
-  "baseFontSize": 19,
+  "baseFontSize": 13,
   "baseFontSizeAction": true,
   "cssTheme": "Wasp",
   "theme": "moonstone"
